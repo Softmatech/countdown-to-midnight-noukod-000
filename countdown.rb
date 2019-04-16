@@ -10,5 +10,5 @@ end
 
 
 def countdown_with_sleep
-  slepp()
+  slepp(5.0)
 end
